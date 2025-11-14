@@ -6,7 +6,7 @@ color 1F
 
 echo ===============================================
 echo   TadbirNetwork (Network, Software, Hardware)
-echo   09135289377 (Mohandes Zaiae)
+echo   09135289377 (Mohandes Ziaei)
 echo ===============================================
 echo.
 
@@ -37,3 +37,4 @@ echo Ping Started on %IP2% ...
 ping %IP2%
 echo.
 goto START
+
