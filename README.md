@@ -1,2 +1,32 @@
-# TadbirNetwork-PingMonitor
-Ping monitoring tool for internet &amp; network with automatic failover. TadbirNetwork
+# TadbirNetwork -- ابزار مانیتورینگ اینترنت
+
+این پروژه یک **ابزار ساده و کاربردی برای مانیتورینگ اینترنت و مسیر
+شبکه** است که توسط\
+**TadbirNetwork (Network, Software, Hardware)** توسعه داده شده است.
+
+## ویژگی‌ها
+
+-   پینگ اتوماتیک به **8.8.8.8**
+-   در صورت عدم پاسخ‌دهی، سوئیچ خودکار به **4.2.2.4**
+-   پیام‌ها به صورت **فینگلیش**
+-   تشخیص Timeout و قطع اتصال
+-   صفحه با رنگ آبی
+-   حالت مانیتورینگ مداوم
+
+## کاربردها
+
+-   تکنسین‌های شبکه\
+-   تیم‌های HelpDesk\
+-   مانیتورینگ پایداری اینترنت\
+-   بررسی مشکلات مسیر شبکه
+
+## برندینگ
+
+-   TadbirNetwork (Network, Software, Hardware)
+-   09135289377 (Mohandes Zaiae)
+
+## نحوه استفاده
+
+1.  اجرای فایل `TadbirNetwork-PingTest.bat`
+2.  شروع خودکار مانیتورینگ
+3.  توقف با CTRL + C و انتخاب Y
